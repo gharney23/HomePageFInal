@@ -81,7 +81,7 @@ top: 65vh;
 }
 
 
-#project1 {background-image: url(image1.jpg); 
+#project1 {background-image: url(image1.JPG); 
     z-index: 1;
     width: 250px;
     height: 250px;
@@ -90,7 +90,7 @@ top: 65vh;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;}
-#project2 {background-image: url(image2.jpg); 
+#project2 {background-image: url(image2.JPG); 
     z-index: 1;
     width: 250px;
     height: 250px;
@@ -108,7 +108,7 @@ top: 65vh;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;}
-#project4 {background-image: url(image4.jpg); 
+#project4 {background-image: url(image4.JPG); 
     width: 250px;
     height: 250px;
     align-items: center;
@@ -118,7 +118,7 @@ top: 65vh;
     background-position: 50% 50%;
 z-index: 1;
 }
-#project5 {background-image: url(image5.jpg); 
+#project5 {background-image: url(image5.JPG); 
     z-index: 1;
     width: 250px;
     height: 250px;
@@ -127,7 +127,7 @@ z-index: 1;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;}
-#project6 {background-image: url(image6.jpg); 
+#project6 {background-image: url(image6.JPG); 
         z-index: 1;
         width: 250px;
         height: 250px;
@@ -136,7 +136,7 @@ z-index: 1;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: 50% 50%;}
-#project7 {background-image: url(image7.jpg); 
+#project7 {background-image: url(image7.JPG); 
             z-index: 1;
             width: 250px;
             height: 250px;
