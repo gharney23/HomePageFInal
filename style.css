@@ -1,14 +1,16 @@
 .container 
     {position: relative;
     height: 40vh;
-    width: 130vh;
+    width: 120vh;
     top: 24%;
     left: 64%;
     transform: translate(-50%, -50%);
     display: flex;
     flex-direction: row;
     align-items:flex-start;
-    justify-content:space-between;}
+    justify-content:space-between;
+    
+}
 
 a {font-size: 14pt;
     font-family: "bungee";
@@ -17,30 +19,29 @@ text-decoration: none;}
 h1 {font-size: 18pt;
     font-family: "bungee";
 color: white;}
-body {background-color: black;}
 
 
 
 #box {display: flex;
     flex-direction: row;
-width:1400px;
+width:1350px;
 height: 200px;
 align-items: center;
 left: 10vh;
 position: fixed;
 justify-content: space-between;
-top: 35vh;
+top: 25vh;
 }
 
 #box2 {display: flex;
     flex-direction: row;
-width:1400px;
+width:1350px;
 height: 200px;
 align-items: center;
 left: 10vh;
 position: fixed;
 justify-content: space-between;
-top: 35vh;
+top: 25vh;
 }
 
 #box3 {font-size: 80pt;
@@ -49,7 +50,7 @@ top: 35vh;
     font-style: normal;
     color: rgb(201, 192, 255);
     position: absolute;
-        top: 7%;
+        top: 5%;
         left: 5%;
         display: flex;
         flex-direction: row;
@@ -58,31 +59,32 @@ top: 35vh;
 
 #box6 {display: flex;
     flex-direction: row;
-width:1400px;
+width:1350px;
 height: 200px;
 align-items: center;
 left: 10vh;
 position: fixed;
 justify-content: space-between;
-top: 85vh;
+top: 65vh;
+
 }
 
 #box8 {display: flex;
     flex-direction: row;
-width:1400px;
+width:1350px;
 height: 200px;
 align-items: center;
 left: 10vh;
 position: fixed;
 justify-content: space-between;
-top: 85vh;
+top: 65vh;
 }
 
 
 #project1 {background-image: url(image1.jpg); 
     z-index: 1;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     align-items: center;
     justify-content: center;
     background-size: contain;
@@ -90,8 +92,8 @@ top: 85vh;
     background-position: 50% 50%;}
 #project2 {background-image: url(image2.jpg); 
     z-index: 1;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     align-items: center;
     justify-content: center;
     background-size: contain;
@@ -99,16 +101,16 @@ top: 85vh;
     background-position: 50% 50%;}
 #project3 {background-image: url(image3.jpg); 
     z-index: 1;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     align-items: center;
     justify-content: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 50%;}
 #project4 {background-image: url(image4.jpg); 
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     align-items: center;
     justify-content: center;
     background-size: contain;
@@ -118,8 +120,8 @@ z-index: 1;
 }
 #project5 {background-image: url(image5.jpg); 
     z-index: 1;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     align-items: center;
     justify-content: center;
     background-size: contain;
@@ -127,8 +129,8 @@ z-index: 1;
     background-position: 50% 50%;}
 #project6 {background-image: url(image6.jpg); 
         z-index: 1;
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
         align-items: center;
         justify-content: center;
         background-size: contain;
@@ -136,8 +138,8 @@ z-index: 1;
         background-position: 50% 50%;}
 #project7 {background-image: url(image7.jpg); 
             z-index: 1;
-            width: 300px;
-            height: 300px;
+            width: 250px;
+            height: 250px;
             align-items: center;
             justify-content: center;
             background-size: contain;
@@ -145,8 +147,8 @@ z-index: 1;
             background-position: 50% 50%;}
 #project8 {background-image: url(image8.JPG); 
                 z-index: 1;
-                width: 300px;
-                height: 300px;
+                width: 250px;
+                height: 250px;
                 align-items: center;
                 justify-content: center;
                 background-size: contain;
@@ -176,56 +178,58 @@ align-items: center;
     #square1 {display: flex; 
         z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square2 {display: flex;
          z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square3 {display: flex; 
         z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square4 {background-color: white; 
         z-index: -1;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;
     display: flex;}
     #square5 {display: flex; 
         z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square6 {display: flex;
          z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square7 {display: flex; 
         z-index: -1;
         background-color: white;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;}
     #square8 {background-color: white; 
         z-index: -1;
-        width: 300px;
-        height: 286px;
+        width: 250px;
+        height: 236px;
         align-items: center;
         justify-content: center;
     display: flex;}
+
+    body {background-color: black;}
