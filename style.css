@@ -1,0 +1,231 @@
+.container 
+    {position: relative;
+    height: 40vh;
+    width: 130vh;
+    top: 24%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content:space-between;}
+
+a {font-size: 14pt;
+    font-family: "bungee";
+color: yellow;
+text-decoration: none;}
+h1 {font-size: 18pt;
+    font-family: "bungee";
+color: white;}
+body {background-color: black;}
+
+
+
+#box {display: flex;
+    flex-direction: row;
+width:1400px;
+height: 200px;
+align-items: center;
+left: 10vh;
+position: fixed;
+justify-content: space-between;
+top: 35vh;
+}
+
+#box2 {display: flex;
+    flex-direction: row;
+width:1400px;
+height: 200px;
+align-items: center;
+left: 10vh;
+position: fixed;
+justify-content: space-between;
+top: 35vh;
+}
+
+#box3 {font-size: 80pt;
+    font-family: 'hwt-mardell', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(201, 192, 255);
+    position: absolute;
+        top: 7%;
+        left: 5%;
+        display: flex;
+        flex-direction: row;
+        align-items:flex-start;}
+
+
+#box6 {display: flex;
+    flex-direction: row;
+width:1400px;
+height: 200px;
+align-items: center;
+left: 10vh;
+position: fixed;
+justify-content: space-between;
+top: 85vh;
+}
+
+#box8 {display: flex;
+    flex-direction: row;
+width:1400px;
+height: 200px;
+align-items: center;
+left: 10vh;
+position: fixed;
+justify-content: space-between;
+top: 85vh;
+}
+
+
+#project1 {background-image: url(image1.jpg); 
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;}
+#project2 {background-image: url(image2.jpg); 
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;}
+#project3 {background-image: url(image3.jpg); 
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;}
+#project4 {background-image: url(image4.jpg); 
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+z-index: 1;
+}
+#project5 {background-image: url(image5.jpg); 
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;}
+#project6 {background-image: url(image6.jpg); 
+        z-index: 1;
+        width: 300px;
+        height: 300px;
+        align-items: center;
+        justify-content: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;}
+#project7 {background-image: url(image7.jpg); 
+            z-index: 1;
+            width: 300px;
+            height: 300px;
+            align-items: center;
+            justify-content: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: 50% 50%;}
+#project8 {background-image: url(image8.JPG); 
+                z-index: 1;
+                width: 300px;
+                height: 300px;
+                align-items: center;
+                justify-content: center;
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: 50% 50%;}
+
+#Project1:hover {opacity: 0;}
+#Project2:hover {opacity: 0;}
+#Project3:hover {opacity: 0;}
+#Project4:hover {opacity: 0;}
+#Project5:hover {opacity: 0;}
+#Project6:hover {opacity: 0;}
+#Project7:hover {opacity: 0;}
+#Project8:hover {opacity: 0;}
+
+
+
+
+
+h1 {display: flex;
+    font-size: 14pt;
+font-family: "bungee";
+color: black;
+align-items: center;
+    justify-content: center;}
+
+    #square1 {display: flex; 
+        z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square2 {display: flex;
+         z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square3 {display: flex; 
+        z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square4 {background-color: white; 
+        z-index: -1;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;
+    display: flex;}
+    #square5 {display: flex; 
+        z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square6 {display: flex;
+         z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square7 {display: flex; 
+        z-index: -1;
+        background-color: white;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;}
+    #square8 {background-color: white; 
+        z-index: -1;
+        width: 300px;
+        height: 286px;
+        align-items: center;
+        justify-content: center;
+    display: flex;}
